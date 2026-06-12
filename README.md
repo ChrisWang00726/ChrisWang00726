@@ -6,7 +6,7 @@ I enjoy collaborating with peers to design, build, and ship software solutions m
 
 My main tech stack is React, TypeScript, FastAPI, and PostgreSQL.
 
-Recently, I participated in a startup competition ICONIQ, and my teammate and I were selected as finalists for our AI Meeting Agent [Wanore](https://wanore.vercel.app/).
+Recently, I participated in a startup competition ICONIQ, and my team selected as a finalist for our AI Meeting Agent [Wanore](https://wanore.vercel.app/).
 
 Hobbies: fencing, gym, and guitar
 
