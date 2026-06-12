@@ -1,5 +1,14 @@
-## Hi there 👋
+## Hello,
 
+I'm Chris, a Software Engineer based in New Jersey.
+
+I enjoy collaborating with peers to design, build, and ship software solutions meant to improve everyday quality of life.
+
+My main tech stack is React, TypeScript, FastAPI, and PostgreSQL.
+
+Recently, I participated in a startup competition ICONIQ, and my teammate and I were selected as finalists for our full-stack application [Wanore](https://wanore.vercel.app/).
+
+Hobbies: fencing, gym, and guitar
 <!--
 **ChrisWang00726/ChrisWang00726** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
