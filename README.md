@@ -1,4 +1,4 @@
-## Hello,
+**Hello,**
 
 I'm Chris, a Software Engineer based in New Jersey.
 
